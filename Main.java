@@ -5,9 +5,21 @@ public class Main{
 		
 		
 		System.out.print("Olá mundo");
-	
+		System.out.print("Bem-vindo ao Git");
 	
 	}
+	
+	
+	
+	public static void printAdditionalMessage(){
+		
+		System.out.print("Está é´uma mensagem adicional. ");
+		
+		
+	}
+	
+	
+	
 	
 	
 	
